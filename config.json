@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emaildync",
+        "uuid": 416632,
+        "checksum": "uj4k5"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
